@@ -1,0 +1,198 @@
+IOU threshold = 0.1
+train data:
+    IOU TP = 3077
+    IOU FN = 0
+    IOU FP = 0
+    IOU precision = 1.0
+    IOU recall = 1.0
+    IOU f1 = 1.0
+valid data:
+    IOU TP = 1454
+    IOU FN = 1
+    IOU FP = 0
+    IOU precision = 1.0
+    IOU recall = 0.9993127147766323
+    IOU f1 = 0.9996562392574768
+test data:
+    IOU TP = 1617
+    IOU FN = 1
+    IOU FP = 0
+    IOU precision = 1.0
+    IOU recall = 0.9993819530284301
+    IOU f1 = 0.9996908809891809
+IOU threshold = 0.2
+train data:
+    IOU TP = 3077
+    IOU FN = 0
+    IOU FP = 0
+    IOU precision = 1.0
+    IOU recall = 1.0
+    IOU f1 = 1.0
+valid data:
+    IOU TP = 1431
+    IOU FN = 24
+    IOU FP = 1
+    IOU precision = 0.9993016759776536
+    IOU recall = 0.9835051546391752
+    IOU f1 = 0.9913404918600623
+test data:
+    IOU TP = 1593
+    IOU FN = 25
+    IOU FP = 1
+    IOU precision = 0.9993726474278545
+    IOU recall = 0.984548825710754
+    IOU f1 = 0.9919053549190536
+IOU threshold = 0.30000000000000004
+train data:
+    IOU TP = 3073
+    IOU FN = 4
+    IOU FP = 1
+    IOU precision = 0.9996746909564086
+    IOU recall = 0.9987000324991875
+    IOU f1 = 0.9991871240448708
+valid data:
+    IOU TP = 1400
+    IOU FN = 55
+    IOU FP = 7
+    IOU precision = 0.9950248756218906
+    IOU recall = 0.9621993127147767
+    IOU f1 = 0.9783368273934312
+test data:
+    IOU TP = 1560
+    IOU FN = 58
+    IOU FP = 7
+    IOU precision = 0.9955328653477984
+    IOU recall = 0.9641532756489494
+    IOU f1 = 0.979591836734694
+IOU threshold = 0.4
+train data:
+    IOU TP = 3040
+    IOU FN = 37
+    IOU FP = 2
+    IOU precision = 0.9993425378040762
+    IOU recall = 0.9879753006174845
+    IOU f1 = 0.9936264095440431
+valid data:
+    IOU TP = 1360
+    IOU FN = 95
+    IOU FP = 12
+    IOU precision = 0.9912536443148688
+    IOU recall = 0.9347079037800687
+    IOU f1 = 0.962150689777149
+test data:
+    IOU TP = 1516
+    IOU FN = 102
+    IOU FP = 14
+    IOU precision = 0.9908496732026144
+    IOU recall = 0.9369592088998764
+    IOU f1 = 0.9631512071156291
+IOU threshold = 0.5
+train data:
+    IOU TP = 2936
+    IOU FN = 141
+    IOU FP = 25
+    IOU precision = 0.9915569064505235
+    IOU recall = 0.9541761455963601
+    IOU f1 = 0.97250745279894
+valid data:
+    IOU TP = 1304
+    IOU FN = 151
+    IOU FP = 27
+    IOU precision = 0.9797145003756574
+    IOU recall = 0.8962199312714777
+    IOU f1 = 0.9361091170136397
+test data:
+    IOU TP = 1452
+    IOU FN = 166
+    IOU FP = 33
+    IOU precision = 0.9777777777777777
+    IOU recall = 0.8974042027194067
+    IOU f1 = 0.9358685143409604
+IOU threshold = 0.6000000000000001
+train data:
+    IOU TP = 2851
+    IOU FN = 226
+    IOU FP = 110
+    IOU precision = 0.9628503883823033
+    IOU recall = 0.9265518362040949
+    IOU f1 = 0.944352434580987
+valid data:
+    IOU TP = 1260
+    IOU FN = 195
+    IOU FP = 71
+    IOU precision = 0.946656649135988
+    IOU recall = 0.865979381443299
+    IOU f1 = 0.9045226130653267
+test data:
+    IOU TP = 1409
+    IOU FN = 209
+    IOU FP = 76
+    IOU precision = 0.9488215488215488
+    IOU recall = 0.8708281829419036
+    IOU f1 = 0.9081533999355461
+IOU threshold = 0.7000000000000001
+train data:
+    IOU TP = 2827
+    IOU FN = 250
+    IOU FP = 134
+    IOU precision = 0.9547450185748058
+    IOU recall = 0.91875203119922
+    IOU f1 = 0.9364027823782709
+valid data:
+    IOU TP = 1231
+    IOU FN = 224
+    IOU FP = 100
+    IOU precision = 0.9248685199098422
+    IOU recall = 0.8460481099656357
+    IOU f1 = 0.8837042354630293
+test data:
+    IOU TP = 1376
+    IOU FN = 242
+    IOU FP = 109
+    IOU precision = 0.9265993265993266
+    IOU recall = 0.8504326328800988
+    IOU f1 = 0.8868836609732517
+IOU threshold = 0.8
+train data:
+    IOU TP = 2666
+    IOU FN = 411
+    IOU FP = 295
+    IOU precision = 0.900371496116177
+    IOU recall = 0.8664283392915177
+    IOU f1 = 0.8830738655183835
+valid data:
+    IOU TP = 1148
+    IOU FN = 307
+    IOU FP = 183
+    IOU precision = 0.8625093914350113
+    IOU recall = 0.7890034364261168
+    IOU f1 = 0.8241206030150754
+test data:
+    IOU TP = 1268
+    IOU FN = 350
+    IOU FP = 217
+    IOU precision = 0.8538720538720539
+    IOU recall = 0.7836835599505563
+    IOU f1 = 0.8172736061875605
+IOU threshold = 0.9
+train data:
+    IOU TP = 1538
+    IOU FN = 1539
+    IOU FP = 1423
+    IOU precision = 0.519419115163796
+    IOU recall = 0.49983750406239846
+    IOU f1 = 0.5094402119907254
+valid data:
+    IOU TP = 691
+    IOU FN = 764
+    IOU FP = 640
+    IOU precision = 0.5191585274229902
+    IOU recall = 0.474914089347079
+    IOU f1 = 0.4960516870064608
+test data:
+    IOU TP = 690
+    IOU FN = 928
+    IOU FP = 795
+    IOU precision = 0.46464646464646464
+    IOU recall = 0.4264524103831891
+    IOU f1 = 0.4447309055752497
